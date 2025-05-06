@@ -17,7 +17,7 @@ public class TriangleDrawer {
     return triangle.toString();
     }
 
-    public String drawTriangle(int side){
+    public String drawTriangle1(int side){
         StringBuilder triangle = new StringBuilder();
         int i = side;
         while(i >= 1){
