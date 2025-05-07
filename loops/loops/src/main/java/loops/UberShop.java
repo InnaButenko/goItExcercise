@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package loops;
 
 public class UberShop {
     public void printPrices(float[] prices) {

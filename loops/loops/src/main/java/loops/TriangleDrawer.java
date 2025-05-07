@@ -1,3 +1,5 @@
+package loops;
+
 public class TriangleDrawer {
     public String drawTriangle(int side){
         StringBuilder triangle = new StringBuilder();

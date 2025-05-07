@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package loops;
+
 public class ArlanHelper {
     public String drawQuad(int n){
 

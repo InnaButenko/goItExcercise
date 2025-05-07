@@ -1,4 +1,5 @@
-import java.util.Arrays;
+package loops;
+
 public class CheapStocks {
     public String getCheapStocks(String[] stocks) {
         StringBuilder stocksBuilder = new StringBuilder();

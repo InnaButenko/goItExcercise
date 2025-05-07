@@ -1,3 +1,5 @@
+package loops;
+
 public class TrurlBank {
     public int sumQuads(int n){
         int sum = 0;
