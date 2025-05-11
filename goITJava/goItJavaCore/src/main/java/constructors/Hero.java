@@ -1,12 +1,12 @@
 package constructors;
-
-public class Hero {
+//Упражнение не имеющее логики
+class Hero {
             private String name;
             private int hp;
     public Hero(String name, int hp) {
-        this.name = "Paratrooper";
-        this.hp = 100;
-}
+        this.name = name;
+        this.hp = hp;
+    }
 
     public int getHp() {
         return hp;
