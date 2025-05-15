@@ -6,7 +6,13 @@ class Hero {
 
     public Hero(String name, int hp) {
         this.name = name;
-        this.hp = hp;
+        if( hp < 0){
+            this.hp = 0;
+        } else if (hp > 200){
+            this.hp = 200;
+        }
+        else{
+            this.hp = hp;}
     }
 
     public Hero() {
