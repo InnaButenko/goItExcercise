@@ -1,7 +1,7 @@
 package interfaces;
 
 public class Quad extends Shape{
-    public String getName(){
-        return "Quad";
+    public Quad(){
+        super("Quad");
     }
 }

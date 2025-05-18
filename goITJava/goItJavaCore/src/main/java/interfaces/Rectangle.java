@@ -1,7 +1,7 @@
 package interfaces;
 
-public class Rectangle {
-    public String getName(){
-        return "Rectangle";
+public class Rectangle extends Shape{
+    public Rectangle(){
+        super("Rectangle");
     }
 }
