@@ -9,6 +9,7 @@ class Bfg {
         this.amount = amount;
         this.damage = damage;
     }
+    
     public Bfg( int amount, int damage){
         this(amount, damage, "Bfg");
     }
