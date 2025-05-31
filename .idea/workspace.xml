@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40acf6c0-6f3f-4c44-bd34-d8f7330c6638" name="Changes" comment="02 commit 18/05/2025&#10;Added new class PrintShapeName;" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;InnaButenko&quot;
+  }
+}</component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;butei1&quot;,
+      &quot;fullname&quot;: &quot;Butenko Inna&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://gitlab.ti.bfh.ch/butei1/my-test-project-1.git&quot;,
+    &quot;second&quot;: &quot;24cf653a-ebee-4396-85fe-5efb0dafb83d&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/InnaButenko/goItExcercise.git&quot;,
+    &quot;accountId&quot;: &quot;051b7298-e974-4a40-8da7-add6ca39e13a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2wsOn4j6Aq9lWYjLuXeWdzvWwaa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Bfg.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Electricity.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Gas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Kommunalka.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintShapeName.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shape.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Water.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/innab/IdeaProjects/my-test-project-1/goITJava/goItJavaCore&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\innab\IdeaProjects\my-test-project-1\goITJava\goItJavaCore\src\main\java" />
+      <recent name="C:\Users\innab\IdeaProjects\my-test-project-1\WoolCount" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PrintShapeName">
+    <configuration name="Bfg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructors.Bfg" />
+      <module name="goITJavaCore (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="constructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="constructors.Hero" />
+      <module name="goITJavaCore (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="constructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kommunalka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kommunalka.Kommunalka" />
+      <module name="goITJavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kommunalka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintShapeName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces.PrintShapeName" />
+      <module name="goITJavaCore (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces.Shape" />
+      <module name="goITJavaCore (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PrintShapeName" />
+        <item itemvalue="Application.Shape" />
+        <item itemvalue="Application.Bfg" />
+        <item itemvalue="Application.Hero" />
+        <item itemvalue="Application.Kommunalka" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40acf6c0-6f3f-4c44-bd34-d8f7330c6638" name="Changes" comment="" />
+      <created>1746826978561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746826978561</updated>
+      <workItem from="1746826979669" duration="18423000" />
+      <workItem from="1747085178392" duration="202000" />
+      <workItem from="1747238953486" duration="3818000" />
+      <workItem from="1747588142668" duration="8448000" />
+      <workItem from="1747833108327" duration="738000" />
+    </task>
+    <task id="LOCAL-00001" summary="01 commit 10/05/2025&#10;Added classes MeterReadings;&#10;Added methods to Water">
+      <option name="closed" value="true" />
+      <created>1746835164028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746835164028</updated>
+    </task>
+    <task id="LOCAL-00002" summary="02 commit 11/05/2025&#10;Added classes Electricity;&#10;Added methods to Electricity;">
+      <option name="closed" value="true" />
+      <created>1746916353972</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746916353972</updated>
+    </task>
+    <task id="LOCAL-00003" summary="03 commit 11/05/2025&#10;Added classes Gas;">
+      <option name="closed" value="true" />
+      <created>1746959538754</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746959538754</updated>
+    </task>
+    <task id="LOCAL-00004" summary="04 commit 11/05/2025&#10;Changed Logic in Water, Electricity, Gas;&#10;Removed output in them, moved to Kommunalka class;&#10;Output structured;">
+      <option name="closed" value="true" />
+      <created>1746964551381</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746964551381</updated>
+    </task>
+    <task id="LOCAL-00005" summary="04 commit 11/05/2025&#10;Added Excercise clases to Constructor">
+      <option name="closed" value="true" />
+      <created>1746970706787</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746970706787</updated>
+    </task>
+    <task id="LOCAL-00006" summary="05 commit 11/05/2025&#10;Added Excercise clases to Constructor">
+      <option name="closed" value="true" />
+      <created>1746978507350</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746978507350</updated>
+    </task>
+    <task id="LOCAL-00007" summary="01 commit 15/05/2025&#10;Added Bfg, class to Constructor;&#10;Edited class Hero;">
+      <option name="closed" value="true" />
+      <created>1747311859519</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747311859519</updated>
+    </task>
+    <task id="LOCAL-00008" summary="01 commit 18/05/2025&#10;Edited class Bfg;&#10;Added new directory &quot;Interfaces&quot;, new classes created;">
+      <option name="closed" value="true" />
+      <created>1747594080810</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747594080810</updated>
+    </task>
+    <task id="LOCAL-00009" summary="02 commit 18/05/2025&#10;Added new class PrintShapeName;">
+      <option name="closed" value="true" />
+      <created>1747594711661</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747594711661</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="01 commit 10/05/2025&#10;Added classes MeterReadings;&#10;Added methods to Water" />
+    <MESSAGE value="02 commit 11/05/2025&#10;Added classes Electricity;&#10;Added methods to Electricity;" />
+    <MESSAGE value="03 commit 11/05/2025&#10;Added classes Gas;" />
+    <MESSAGE value="04 commit 11/05/2025&#10;Changed Logic in Water, Electricity, Gas;&#10;Removed output in them, moved to Kommunalka class;&#10;Output structured;" />
+    <MESSAGE value="04 commit 11/05/2025&#10;Added Excercise clases to Constructor" />
+    <MESSAGE value="05 commit 11/05/2025&#10;Added Excercise clases to Constructor" />
+    <MESSAGE value="01 commit 15/05/2025&#10;Added Bfg, class to Constructor;&#10;Edited class Hero;" />
+    <MESSAGE value="01 commit 18/05/2025&#10;Edited class Bfg;&#10;Added new directory &quot;Interfaces&quot;, new classes created;" />
+    <MESSAGE value="02 commit 18/05/2025&#10;Added new class PrintShapeName;" />
+    <option name="LAST_COMMIT_MESSAGE" value="02 commit 18/05/2025&#10;Added new class PrintShapeName;" />
+  </component>
+</project>

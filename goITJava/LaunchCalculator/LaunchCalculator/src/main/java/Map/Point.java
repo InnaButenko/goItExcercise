@@ -3,47 +3,51 @@ package Map;
 import java.util.Objects;
 
 public class Point {
-    private int x;
-    private int y;
-    private int z;
+        private int x;
+        private int y;
+        private int z;
 
-    public int getX() {
-        return x;
-    }
+        public int getX() {
+            return x;
+        }
 
-    public void setX(int x) {
-        this.x = x;
-    }
+        public void setX(int x) {
+            this.x = x;
+        }
 
-    public int getY() {
-        return y;
-    }
+        public int getY() {
+            return y;
+        }
 
-    public void setY(int y) {
-        this.y = y;
-    }
+        public void setY(int y) {
+            this.y = y;
+        }
 
-    public int getZ() {
-        return z;
-    }
+        public int getZ() {
+            return z;
+        }
 
-    public void setZ(int z) {
-        this.z = z;
-    }
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
-        Point point = (Point) o;
-        return x == point.x &&
-                y == point.y &&
-                z == point.z;
-    }
+        public void setZ(int z) {
+            this.z = z;
+        }
 
-    @Override
-    public int hashCode() {
-        return Objects.hash(x, y, z);
-    }
+        @Override
+        public boolean equals(Object o) {
+            if (this == o) return true;
+            if (o == null || getClass() != o.getClass()) return false;
+            Point point = (Point) o;
+            return x == point.x &&
+                    y == point.y &&
+                    z == point.z;
+        }
+
+        @Override
+        public int hashCode() {
+            int result = Integer.hashCode(x);
+            result = 31 * result + Integer.hashCode(y);
+            result = 31 * result + Integer.hashCode(z);
+            return result;
+        }
 
     public static void main(String[] args) {
         Point p1 = new Point();
@@ -58,6 +62,7 @@ public class Point {
 
         System.out.println(p1.equals(p2));
 
+
         System.out.println(Objects.hash(1, 2, 3));
     }
-}
+    }
